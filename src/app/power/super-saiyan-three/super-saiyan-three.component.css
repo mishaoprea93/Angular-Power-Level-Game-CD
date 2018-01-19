@@ -1,0 +1,9 @@
+.super-saiyan-three {
+    background-color: antiquewhite;
+    height: 200px;
+    width: 200px;
+    display: inline-block;
+    outline: 1px dotted black;
+    vertical-align: top;
+    margin-top: 20px;
+}
